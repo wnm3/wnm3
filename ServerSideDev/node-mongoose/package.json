@@ -10,6 +10,6 @@
   "author": "Nathaniel Mills",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.11.15"
+    "mongoose": "^6.0.4"
   }
 }
